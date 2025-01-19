@@ -1,6 +1,4 @@
 ---
 title: Welcome to my blog
 ---
----
-content: Hello GitHub Pages!!
----
+Hello GitHub Pages!!
